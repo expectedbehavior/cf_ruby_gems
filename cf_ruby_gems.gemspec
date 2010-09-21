@@ -7,4 +7,5 @@ Gem::Specification.new do |s|
   s.summary = %q{wrap up common required gems into one gem for bundling}
   s.homepage = %q{http://www.expectedbehavior.com}
   s.files = [ "README.rdoc", "Changelog", "MIT-LICENSE", "lib/cf_ruby_gems.rb"]
+  s.add_dependency "map_by_method", "0.8.3"
 end
