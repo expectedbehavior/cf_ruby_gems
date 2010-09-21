@@ -8,8 +8,9 @@ Gem::Specification.new do |s|
   s.homepage = %q{http://www.expectedbehavior.com}
   s.files = [ "README.rdoc", "Changelog", "MIT-LICENSE", "lib/cf_ruby_gems.rb"]
   [
-   ["map_by_method", "0.8.3"],
-   ["what_methods",  "1.0.1"]
+   ["map_by_method", "=0.8.3"],
+   ["what_methods",  "=1.0.1"],
+   ['awesome_print', '=0.2.1'],
   ].each do |gem_name, gem_version|
     s.add_dependency gem_name, gem_version
   end
