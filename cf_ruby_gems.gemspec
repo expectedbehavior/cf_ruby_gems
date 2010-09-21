@@ -6,5 +6,5 @@ Gem::Specification.new do |s|
   s.email = %q{joel@expectedbehavior.com}
   s.summary = %q{wrap up common required gems into one gem for bundling}
   s.homepage = %q{http://www.expectedbehavior.com}
-  s.files = [ "README", "Changelog", "LICENSE", "lib/cf_ruby_gems.rb"]
+  s.files = [ "README.rdoc", "Changelog", "MIT-LICENSE", "lib/cf_ruby_gems.rb"]
 end
