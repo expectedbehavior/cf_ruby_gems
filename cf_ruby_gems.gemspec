@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name = %q{cf_ruby_gems}
-  s.version = "0.1.1"
+  s.version = "0.1.2"
   s.date = %q{2010-09-20}
   s.authors = ["Joel Meador"]
   s.email = %q{joel@expectedbehavior.com}
