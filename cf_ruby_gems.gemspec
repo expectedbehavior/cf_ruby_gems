@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name = %q{cf_ruby_gems}
-  s.version = "0.1.6"
+  s.version = "0.1.7"
   s.date = %q{2010-09-20}
   s.authors = ["Joel Meador"]
   s.email = %q{joel@expectedbehavior.com}
@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   [
    ["map_by_method",    "=0.8.3"],
    ["what_methods",     "=1.0.1"],
-   ["awesome_print",    "=0.2.1"],
+   ["awesome_print",    "=0.3.2"],
    ["duration",         "=0.1.0"],
    ["chronic_duration", "=0.9.2"],
    ["wirble",           "=0.1.3"],
