@@ -12,7 +12,7 @@ Gem::Specification.new do |s|
    ["what_methods",     "=1.0.1"],
    ["awesome_print",    "=0.2.1"],
    ["duration",         "=0.1.0"],
-   ["chronic_duration", "=0.9.2"]
+   ["chronic_duration", "=0.9.2"],
    ["wirble",           "=0.1.3"],
    ["hirb",             "=0.3.1"]
   ].each do |gem_name, gem_version|
