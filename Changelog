@@ -1,0 +1,2 @@
+0.1.8
+	Remove original duration gem; update to 0.9.4 for chronic_duration
