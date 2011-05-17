@@ -1,4 +1,4 @@
 This gem installs gems we reference in our common files.
 We can install this using bundler and not break our .irbrc settings.
 
-Copyright (c) 2010 [Expected Behavior, LLC], released under the MIT license
+Copyright (c) 2010-2011 [Expected Behavior, LLC], released under the MIT license
